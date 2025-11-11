@@ -2492,7 +2492,10 @@
 #include "code\modules\mob\living\basic\friendly\lightgeist.dm"
 #include "code\modules\mob\living\basic\friendly\lizard.dm"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #include "code\modules\mob\living\basic\friendly\mouse.dm"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #include "code\modules\mob\living\basic\friendly\nian_caterpillar.dm"
@@ -2515,10 +2518,14 @@
 #include "code\modules\mob\living\basic\hostile\pirate.dm"
 #include "code\modules\mob\living\basic\hostile\skeleton_mob.dm"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #include "code\modules\mob\living\basic\hostile\tree.dm"
 #include "code\modules\mob\living\basic\hostile\viscerator.dm"
 #include "code\modules\mob\living\basic\hostile\soviet.dm"
 #include "code\modules\mob\living\basic\hostile\vox_raiders.dm"
+=======
+#include "code\modules\mob\living\basic\hostile\soviet.dm"
+>>>>>>> Stashed changes
 =======
 #include "code\modules\mob\living\basic\hostile\soviet.dm"
 >>>>>>> Stashed changes
@@ -2529,9 +2536,12 @@
 #include "code\modules\mob\living\basic\hostile\alien\alien_mob_queen.dm"
 #include "code\modules\mob\living\basic\hostile\alien\alien_mob_sentinel.dm"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #include "code\modules\mob\living\basic\hostile\bees\bee_ai_behaviors.dm"
 #include "code\modules\mob\living\basic\hostile\bees\bee_ai_subtree.dm"
 #include "code\modules\mob\living\basic\hostile\bees\bees.dm"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #include "code\modules\mob\living\basic\hostile\giant_spider\giant_spider.dm"
@@ -2540,12 +2550,15 @@
 #include "code\modules\mob\living\basic\hostile\gorilla\gorilla.dm"
 #include "code\modules\mob\living\basic\hostile\gorilla\gorilla_emote.dm"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #include "code\modules\mob\living\basic\hostile\revenant\revenant.dm"
 #include "code\modules\mob\living\basic\hostile\revenant\revenant_abilities.dm"
 #include "code\modules\mob\living\basic\lavaland\goliath\goliath.dm"
 #include "code\modules\mob\living\basic\lavaland\goliath\goliath_actions.dm"
 #include "code\modules\mob\living\basic\lavaland\goliath\goliath_ai.dm"
 #include "code\modules\mob\living\basic\lavaland\goliath\tentacle.dm"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 #include "code\modules\mob\living\basic\minebots\minebot.dm"
